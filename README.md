@@ -38,12 +38,10 @@ CREATE TABLE IF NOT EXISTS OLYMPICS_HISTORY_NOC_REGIONS
 #### 1. How many olympics games have been held ? 
 
 SELECT count(distinct Team) AS NO_OF_TEAMS  FROM OLYMPICS_HISTORY;
-![image](https://user-images.githubusercontent.com/41924501/208187867-603a50cb-bbc1-48fd-90a1-fc12262d3eaf.png)
 
 #### 2. List down all Olympics games held so far.
 
 SELECT DISTINCT Games FROM olympics_history ORDER BY Games;
-![image](https://user-images.githubusercontent.com/41924501/208188498-07bdb1ac-88ba-42a7-8170-47af761062ef.png)
 
 #### 3. 
 
