@@ -1,4 +1,6 @@
 # Olympics History Data Analysis Using MySQL
+![Olympic](https://user-images.githubusercontent.com/41924501/208247515-591ae23b-6bf1-4f21-932e-f5e6fa6cb50f.jpg)
+
 #### Data Analysis using SQL of Olympic History datasets which is having  more than 260k Rows  and 15 Columns 
 
 ### Table Structured
