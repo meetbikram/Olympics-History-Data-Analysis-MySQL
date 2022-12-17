@@ -1,5 +1,5 @@
-## Olympics-Hiatory-Analysis-MySQL
-Data Analysis using SQL of Olympic History datasets which is having  more than 260k Rows  and 15 Columns 
+#Olympics-Hiatory-Analysis-MySQL
+#### Data Analysis using SQL of Olympic History datasets which is having  more than 260k Rows  and 15 Columns 
 
 ### Table Structured
 
