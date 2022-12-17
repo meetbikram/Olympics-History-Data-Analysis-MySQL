@@ -18,5 +18,12 @@ Data Analysis using SQL of Olympic History datasets which is having  more than 2
 ![image](https://user-images.githubusercontent.com/41924501/208243827-3142e823-e4f1-458f-97a8-d2649123d0f7.png)
 
 
-### List of all these 20 queries mentioned below:
-![image](https://user-images.githubusercontent.com/41924501/208242806-4a94d4f4-d38b-42ed-8538-4e02e84feaf3.png)
+### List of all these 12 queries mentioned below:
+![image](https://user-images.githubusercontent.com/41924501/208244154-233aec36-9a4d-4dd4-add7-325ba7304f02.png)
+
+### QUARIES : -
+
+#### Query 1,2 and 3 :
+
+![image](https://user-images.githubusercontent.com/41924501/208244217-288cbe9c-b40f-4d12-80f4-6d911bc4df9a.png)
+
