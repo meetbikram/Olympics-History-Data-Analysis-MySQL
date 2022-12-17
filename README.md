@@ -13,5 +13,10 @@ Data Analysis using SQL of Olympic History datasets which is having  more than 2
 #### select *from olympics_history;
 ![image](https://user-images.githubusercontent.com/41924501/208185635-d576d331-94f1-45cb-8b9a-c1eab74921e8.png)
 
+### olympics_history_noc_regions
+#### select *from olympics_history_noc_regions;
+![image](https://user-images.githubusercontent.com/41924501/208243827-3142e823-e4f1-458f-97a8-d2649123d0f7.png)
+
+
 ### List of all these 20 queries mentioned below:
 ![image](https://user-images.githubusercontent.com/41924501/208242806-4a94d4f4-d38b-42ed-8538-4e02e84feaf3.png)
