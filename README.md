@@ -7,10 +7,5 @@ Data Analysis using SQL of Olympic History datasets which is having  more than 2
 
 ### List of all these 20 queries mentioned below:
 <p align="center">
-![image](https://user-images.githubusercontent.com/41924501/208242806-4a94d4f4-d38b-42ed-8538-4e02e84feaf3.png)
-
-</p>
-
-<p align="center">
-  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/41924501/208242806-4a94d4f4-d38b-42ed-8538-4e02e84feaf3.png)" />
+  <img src="![image](https://user-images.githubusercontent.com/41924501/208242806-4a94d4f4-d38b-42ed-8538-4e02e84feaf3.png)" />
 </p>
